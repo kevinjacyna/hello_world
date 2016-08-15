@@ -1,2 +1,4 @@
 # hello_world
-creating repo
+
+Hey what's up? Creating a repo so I can throw up some programs I've built!
+
